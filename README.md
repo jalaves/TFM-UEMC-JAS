@@ -1,6 +1,4 @@
 TFM-UEMC-JAS
 
-DOI Badge
+https://doi.org/10.5281/zenodo.12168945
 
-Target URL
-https://zenodo.org/doi/10.5281/zenodo.12168944
